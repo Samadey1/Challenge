@@ -1,1 +1,28 @@
-text
+Software Development Life Cycle 
+
+Software Development Life Cycle is a standard process followed in an organization to conduct all the steps necessary to analyze, design, implement, and maintain software systems.
+
+There are 6 stages involved in Software Development Life Cycle (SDLC)
+1.	Requirements
+2.	Design
+3.	Development 
+4.	Testing
+5.	Deployment
+6.	Maintenance
+
+The requirements stage involves the process of gathering requirements from the business owner, analyzing, and then documenting them. This is fundamental and the basis for all software development. 
+
+Design stage is where UI/UX designer will design the prototype of the application based on the requirements documents/specifications (
+
+At the Development stage, Developer(s) will profer solution by writing code.
+
+The testing stage involves the execution of various tests to ensure ALL works as PLANNED.
+
+Deployment is making sure the application is available to users. 
+
+Maintenance addresses issue during operation if needed 
+
+
+#Qavdev20daysChallenge #techAndMe
+
+ext
